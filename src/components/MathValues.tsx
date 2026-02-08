@@ -40,7 +40,7 @@ const MathValues = () => {
                 <div className="absolute inset-0 border border-slate-200 translate-x-4 translate-y-4 rounded-2xl" />
                 <div className="relative h-full w-full rounded-2xl overflow-hidden shadow-2xl">
                      <img 
-                        src="images/fag3.png" 
+                        src="/Fundacion_AG/images/fag3.png" 
                         alt="Comunidad Fundación Andrés Grajales" 
                         className="w-full h-full object-cover"
                     />
