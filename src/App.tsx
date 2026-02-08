@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import Hero from './components/Hero';
 import TheLegacy from './components/TheLegacy';
 import BinaryMission from './components/BinaryMission';
