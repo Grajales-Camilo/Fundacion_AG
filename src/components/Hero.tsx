@@ -49,7 +49,7 @@ const Hero = () => {
                 {/* Logo Container with Stencil Effect */}
                 <div className="relative w-full h-full rounded-full border border-white/20 bg-white/10 backdrop-blur-md shadow-2xl flex items-center justify-center overflow-hidden ring-1 ring-slate-900/5">
                     <img 
-                      src="/images/logo_fag.png" 
+                      src="images/logo_fag.png" 
                       alt="Logo Fundación Andrés Grajales" 
                       className="w-3/4 h-3/4 object-contain opacity-90 mix-blend-multiply filter contrast-125"
                     />
